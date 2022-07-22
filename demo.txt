@@ -1,5 +1,3 @@
 first row
 
 second row from github.com
-
-content for revert
